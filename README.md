@@ -1,7 +1,7 @@
 # C-Sample-Algorithms
 A library of common data structures and algorithms written in C for Educations
 
-####Features 
+### Features 
 * Tree
 * Stacks
 * Queue
